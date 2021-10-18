@@ -1,9 +1,8 @@
 # Echo
 
-Powerful equalizer, Quick search all music and audio files, Easy to support all music & audio file formats.
+Echo is a full-fledged music player, with a powerful equalizer and all audio file formats support.
 
-You can manage your music easily.
-
+Quick search all music and audio files. You can manage your music easily
 The unique equalizer makes your music sounds like you've never had before.
 
 Key Features:
